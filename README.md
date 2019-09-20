@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ellie Locke's Digital Portfolio
 
 You can use the [editor on GitHub](https://github.com/ellielocke/2020digitalmediaPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
